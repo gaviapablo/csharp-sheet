@@ -1,0 +1,25 @@
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\App Console.exe.config
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\App Console.exe
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\App Console.pdb
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\obj\Debug\App Console.csproj.AssemblyReference.cache
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\obj\Debug\App Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\obj\Debug\App Console.csproj.CoreCompileInputs.cache
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\obj\Debug\App Console.exe
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\obj\Debug\App Console.pdb
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\CsvHelper.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Buffers.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Memory.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\CsvHelper.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Buffers.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Memory.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gavia\OneDrive\Documentos\Murano\Aprendendo\C#\primeiro-prog\csharp-sheet\App Console\App Console\obj\Debug\App Console.csproj.CopyComplete
