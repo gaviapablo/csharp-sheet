@@ -30,7 +30,7 @@ namespace App_Console
                         nome = objeto.Nome;
                     }
                 }
-                Console.WriteLine(nome + " tem a maior altura, com " + altura.ToString() + "cms.");
+                Console.WriteLine(nome + " tem a maior altura, com " + altura.ToString() + "centímetros.");
 
             }
             Console.ReadLine();
